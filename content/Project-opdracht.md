@@ -15,7 +15,7 @@ Tegenwoordig gebruiken veel mensen language modellen zoals ChatGPT om te sparren
 
 Weekend ziet grote kansen voor AI om hun creatieve process aan te vullen. Dit zien ze vooral in de overgang van hun hun concept naar een werkelijk design. Hierbij zou AI kunnen helpen en/of ondersteunen met het bedenken van nieuwe creatieve manieren om een product of service op een creatieve manier te naar de klant toe te brengen. Hier kan geholpen worden door bijvoorbeeld snel linkjes te leggen met eerder projecten of om volledig nieuwe ideeën te generen op basis van de context van een uitgewerkt concept. 
 
-De scope van het project staat verder gedefinieerd in [[Requirements]].
+De scope van het project staat verder gedefinieerd in [[requirements]].
 
 # De opdracht
 De opdracht deze stage is het maken van een Web applicatie waarin je een of meerdere Language modellen kan gebruiken die getraind zijn op basis van data van een bedrijf binnen Handpicked agencies.

@@ -22,5 +22,5 @@ Om de twee weken is er op vrijdag een demo van alle stagairs, deze demo zal in d
 Met mijn stagebegeleider is wekelijkse communicatie op de woensdag of vrijdag. Verder hebben we afgesproken dat zodra ik ergens vastloop meteen contact leg met mijn stagebegeleider vanuit Fontys. Deze zal meestal via Teams verlopen. 
 
 # Configuratiemanagement
-Verder ben ik van plan om mijn git repos in te gaan richten zoals beschreven staat onder het versie beheer kopje in [[Software-architectuur]].
+Verder ben ik van plan om mijn git repos in te gaan richten zoals beschreven staat onder het versie beheer kopje in [[software-architectuur]].
 

@@ -1,4 +1,5 @@
-#app-design   #onderzoeks-rapport 
+#app-design  #design  #onderzoeks-rapport 
+
 # Architectuur
 ## Versie 1
 Voor dit project wilde ik een JavaScript of Typescript framework gebruiken voor de front end van mijn applicatie, omdat in mijn ervaring dat best goed werkt met een gedistribueerde software architectuur. Daarnaast is mij vanuit mijn het Handpicked Lab aangeraden om express te gebruiken als middleware API. Toen ik wat onderzoek gedaan had kwam ik al heel snel bij de MEAN stack. Dit is iets wat goed in mijn applicatie structuur past. Persoonlijk had ik nog geen ervaring met JavaScript frameworks zoals Express of met NoSQL databases zoal MongoDB. Dit heeft mij niet tegen gehouden van het gebruik maken hiervan.

@@ -1,5 +1,0 @@
-- projectplan
-	- [project opdracht](Project-opdracht.md)
-	- [Plan van aanpak](Plan-van-aanpak.md)
-	- [Projectorganisatie](Projectorganisatie.md)
-	- [Financiën en Risico's](financien-en-risicos.md)

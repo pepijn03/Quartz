@@ -1,3 +1,7 @@
+---
+title: Software architectuur
+---
+
 #app-design  #design  #onderzoeks-rapport 
 
 # Architectuur

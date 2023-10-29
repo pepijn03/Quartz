@@ -19,7 +19,7 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 |**Uitzondering**   |    |
 |**Resultaat**   | De actor heeft nu een idee gegeneerd.  |
 
-</br>
+<br\>
 
 |**Naam**   |UC-01.2: genereer een idee    |
 |---|---|

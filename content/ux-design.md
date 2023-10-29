@@ -1,3 +1,7 @@
+---
+title: UX design
+---
+
 #app-design #design
 
 Het einddoel van het project een website is waar je gebruik kan maken van LLM modellen die gevoelige informatie bevatten die je als bedrijf niet op straat wilt hebben. Doordat het einddoel een website bevat, moet er natuurlijk ook nagedacht worden over hoe deze applicatie eruit moet komen te zien.
@@ -5,7 +9,7 @@ Het einddoel van het project een website is waar je gebruik kan maken van LLM mo
 # Wireframe
 Om bij een design te komen ben ik begonnen met een hele simpele zwart witte wireframe. Dit is om vorm te geven aan de applicatie flow voordat ik na hoef te denken over het design.
 
-![[S5-Stage/Attachments/Wireframe homepage.png]]
+![[Wireframe homepage.png]]
 ![[Wireframe tool page.png]]
 # UX design
 ## Versie 1

@@ -1,4 +1,9 @@
+---
+title: Custom LLMs
+---
+
 #onderzoeks-rapport
+
 Binnen het project van mijn stage bij Handpicked Lab, is mijn opdracht om een integratie te maken van een taal model, dat informatie moet bevatten van een bepaald bedrijf. Het is belangrijk om deze informatie op een veilige manier op te slaan. Verder is het belangrijk om rekening te houden met de prestaties van het taal model, het moet niet te lang duren voordat het model een antwoord genereerd.
 
 # Fine-tuning

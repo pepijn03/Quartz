@@ -1,8 +1,8 @@
 ---
 title: Financiën en Risico's
+tags:
+  - project-plan
 ---
-
-#project-plan 
 
 # Kostenbudget
 _<< Als specifieke kosten moeten worden gemaakt voor je project, geef deze dan aan. Denk aan extra hardware of software investeringen. Reguliere zaken zoals werkplek, je stagevergoeding, etc. hoeven niet meegenomen te worden._

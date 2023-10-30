@@ -1,8 +1,8 @@
 ---
 title: Project organisatie
+tags:
+  - project-plan
 ---
-
-#project-plan 
 
 # Betrokkenen
 Binnen dit project zijn er meerdere stakeholders en personen die me begeleiden gedurende mijn stage bij Handpicked lab. Mijn collega's binnen Handpicked lab zijn meerdere dagen per week beschikbaar voor vragen, hierdoor zal ik dus minimaal vertraging oplopen zodra ik ergens niet uitkom. 

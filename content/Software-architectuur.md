@@ -1,8 +1,9 @@
 ---
 title: Software architectuur
+tags:
+  - app-design
+  - onderzoeks-rapport.
 ---
-
-#app-design  #design  #onderzoeks-rapport 
 
 # Architectuur
 ## Versie 1

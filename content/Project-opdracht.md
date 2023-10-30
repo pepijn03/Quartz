@@ -1,9 +1,8 @@
 ---
-title: Project Opdracht
+title: Project opdacht
 tags:
   - project-plan
 ---
-
 # Context 
 Handpicked agencies is een overkoepelende organisatie van bedrijven die zich bezighouden met ICT en ICT-gerelateerde werkvelden zoals; digital marketing, AR/VR, UX design, mobile development en nog meer.
 

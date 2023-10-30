@@ -1,7 +1,6 @@
 ---
 title: Welkom bij mijn stageverslag
 ---
-
 # Inleiding
 Dit semester heb ik een stage opdracht gedaan bij Handpicked Lab, deze afdeling van Handpicked agencies houdt zich bezig met het testen en uitzoeken van nieuwe IT innovaties die aansluit bij één of meerdere labels van Handpicked. Handpicked is een overkoepelende organisatie waar 10 bedrijven lid van zijn. Deze bedrijven specialiseren zich op ICT en ICT-gerelateerde gebieden zoals; web design, e-commerce, AR/VR en software engineering. Handpicked agencies biedt als organisatie gecentraliseerde dienste zoals HR en financiën. Mijn stageplek, het Handpicked Lab, is ook een gecentraliseerde afdeling die niet behoord tot een bepaald 'agency'.
 
@@ -9,9 +8,9 @@ Mijn opdracht is om een soort 'AI toolbox' te maken waar gebruikers van een agen
 
 # Leeswijzer
 - Projectplan
-	- [Project opdracht](Project-opdracht.md)
+	- [Project opdracht](project-opdracht.md)
 	- [Plan van aanpak](pva.md)
-	- [Projectorganisatie](Projectorganisatie.md)
+	- [projectorganisatie](projectorganisatie.md)
 	- [Financiën en Risico's](financien-en-risicos.md)
 - Analyse
 	- [Requirements](requirements.md)

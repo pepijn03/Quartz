@@ -2,17 +2,17 @@
 title: Software architectuur
 tags:
   - app-design
-  - onderzoeks-rapport.
+  - onderzoeks-rapport
 ---
-
 # Architectuur
 ## Versie 1
 Voor dit project wilde ik een JavaScript of Typescript framework gebruiken voor de front end van mijn applicatie, omdat in mijn ervaring dat best goed werkt met een gedistribueerde software architectuur. Daarnaast is mij vanuit mijn het Handpicked Lab aangeraden om express te gebruiken als middleware API. Toen ik wat onderzoek gedaan had kwam ik al heel snel bij de MEAN stack. Dit is iets wat goed in mijn applicatie structuur past. Persoonlijk had ik nog geen ervaring met JavaScript frameworks zoals Express of met NoSQL databases zoal MongoDB. Dit heeft mij niet tegen gehouden van het gebruik maken hiervan.
-![Illustratie van de MEAN stack](Mean-stack.png)
 
+![Illustratie van de MEAN stack](Mean-stack.png)
 
 ## Versie 2
 Doordat het gebied van taal modellen een onderdeel van data science bevat is er vooral ondersteuning voor het gebruik hiervan in Python. Hierdoor heb ik besloten om naast mijn Express applicatie nog een Flask API in Python te gebruiken, dit zorgt ervoor dat mijn Express app zich echt als middleware gedraagt tussen mijn web frontend en database of Python flask API. MongoDB heeft een gratis server waar je gratis databases kan hosten. Deze service heet Atlas.
+
 ![Illustratie van de applicatie structuur](ArchitectuurV2.png)
 
 # Code styling en structuur

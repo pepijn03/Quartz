@@ -5,7 +5,6 @@ tags:
   - app-design
   - analyse
 ---
-
 Voordat je iets gaat maken is het belangrijk dat je gaat uitzoeken wat je precies wil gaan maken. Dit ga ik in dit project doen aan de hand van user stories en use cases. De user stories werkt in dit geval als een vervanging van klassieke requirements. Daarnaast zijn er ook wat niet functionele vereisten aan het project, deze staan hier ook gedefinieerd.
 # Use case en User stories
 ## Ideeën genereren
@@ -25,7 +24,7 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 |**Uitzondering**   |    |
 |**Resultaat**   | De actor heeft nu een idee gegeneerd.  |
 
-<br\>
+</br>
 
 |**Naam**   |UC-01.2: genereer een idee    |
 |---|---|

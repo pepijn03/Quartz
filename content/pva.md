@@ -3,7 +3,6 @@ title: Plan van aanpak
 tags:
   - project-plan
 ---
-
 # Aanpak
 In dit project ga ik werken op een agile Scrum manier. Deze methode komt het best overeen met de manier dat er gewerkt wordt op Handpicked Lab. Om deze methode vorm te geven komt er elke ochtend een stand-up om aan elkaar te laten zien waar we mee bezig zijn en om te bewaken dat iemand niet te lang op een bepaald onderdeel van zijn of haar project blijft hangen. Verder zal er elke twee weken op vrijdag een gezamenlijke demo plaatsvinden van alle leden van het Handpicked Lab, mijn sprints zullen dus bestaan uit 2 weken en elke keer naar de demo toe werken. Om dit systeem te ondersteunen zal ik zelf ook nog een Kanban bord bijhouden voor mijn eigen planning.
 

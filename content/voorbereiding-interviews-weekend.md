@@ -3,7 +3,6 @@ title: Voorbereiding interviews Weekend
 tags:
   - weekend-data
 ---
-
 # Stukje context
 Om een model met een specifieke kennis informatie te gebruiken, heb je natuurlijk data nodig. De data die ik nodig zou hebben van Weekend staat nog niet klaar. Bij het process van Weekend is mijn project van toepassing bij de overgang van onderzoek naar een concept. Er zijn twéé manieren die ik wil gaan proberen om ideeën te laten genereren:
 1. Gebruik de onderzoek documenten als context om een daarop gebaseerd idee te genereren voor een concept. Hiervoor zouden er documenten meegegeven moeten worden wanneer er een nieuwe context gebruikt wordt.

@@ -3,7 +3,6 @@ title: Custom LLMs
 tags:
   - onderzoeks-rapport
 ---
-
 Binnen het project van mijn stage bij Handpicked Lab, is mijn opdracht om een integratie te maken van een taal model, dat informatie moet bevatten van een bepaald bedrijf. Het is belangrijk om deze informatie op een veilige manier op te slaan. Verder is het belangrijk om rekening te houden met de prestaties van het taal model, het moet niet te lang duren voordat het model een antwoord genereerd.
 
 # Fine-tuning
@@ -34,20 +33,36 @@ De modellen waarvan bekent is dat ze goed met de Nederlandse taal om kunnen gaan
 
 Daarna worden de modellen die een goed genoeg antwoord gaven op de eerste vraag ook getest met een embedding als context. Als dit goed gaat bij meerdere ga ik aan de slag met het aanpassen van de parameters om de uitslag van de generaties te beïnvloedden. Hiermee wil ik kijken hoe creatief ik de modellen kan krijgen. 
 
+Om de modellen te testen ben ik van plan om ze via Google Colab te hosten met hulp van deze [GitHub repo](https://github.com/camenduru/text-generation-webui-colab#-colab-pro) waar er voor een hoop LLM modellen een Jupyter notebook klaar staat waarmee je de modellen kan hosten. Voor de modellen die ik wil gaan gebruiken die niet op de GitHub repo staan zal ik gaan kijken naar andere oplossingen zoals de [Huggingface inference API](https://huggingface.co/inference-api) of een lokale installatie van [GPT4All.](https://gpt4all.io/index.html)
+
 ## Llama
+Llama is een familie van LLM modellen van Meta. Deze modellen zijn van vrij hoge kwaliteit binnen de open-source modellen die nu steeds meer in opkomst zijn. 
+
 De eerste test was deels geslaagd, als het op iets specifieks en feitelijks aan komt kwam er een goed volledig Nederlandstalig antwoord uit. Zodra het wat subjectiever werd, was het meteen moeilijker voor het model om een volledig Nederlands antwoord te genereren. 
 
 ![[llama-1.png]]
 
 ![[llama-2.png]]
-
+Deze uitkomsten zijn niet ideaal maar, het is lijkt me het wel waard om verder te gaan experimenteren voor mijn project.
 ## Bert
 
 
 ## GPT
+Doordat de recentere GPT modellen niet worden vrijgegeven door OpenAI, zal ik mijn testen op het verouderde GPT-2 moeten toepassen. Dit was geen groot success doordat dit model gewoon nog niet op het niveau was zoals deze nu is. 
 
+![[GPT-1.png]]
+
+Dit model is dus totaal niet geschrikt om mee door te gaan.
 
 ## Falcon
-Dit model is een van de modellen dat niet aan geeft dat het de Nederlandse taal begrijpt, maar het is wel een klein beetje getraind op Nederlandse taal. Hierdoor vind ik het een interessant experiment om te kijken hoeveel begrip op de nederlandse taal genoeg is voor mijn casus. 
+Dit model is een van de modellen dat niet aan geeft dat het de Nederlandse taal begrijpt, maar het is wel een klein beetje getraind op Nederlandse taal. Hierdoor vind ik het een interessant experiment om te kijken hoeveel begrip op de Nederlandse taal genoeg is voor mijn casus. 
+
+![[falcon-1.png]]
+
+Het platform waar ik andere modellen getest heb werkte niet goed voor Falcon, hierdoor ben ik door gaan zoeken en heb ik gevonden dat er een preview van de model gehost wordt op de [Huggingface pagina van Falcon](https://huggingface.co/tiiuae/falcon-7b-instruct) 
+
+![[falcon-2.png]]
+
+Hieruit kon ik concluderen dat het Falcon model het niet waard is om verder mee te gaan experimenteren. Voor een model dat Geraint is op 3 miljard Nederlandse vectors, vind ik dit een best slechte uitkomst.
 
 ## Orca

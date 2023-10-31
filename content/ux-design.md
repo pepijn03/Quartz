@@ -19,7 +19,7 @@ Nadat de wireframe klaar was heb ik deze omgezet naar een design met kleuren en 
 
 ![[design tool detail page.png]]
 
-De inspiratie hiervoor was de [board of innovation ai toolkit](), dit was ook een grote inspiratie voor het concept van de stage opdracht. Verder heb ik voor de kleuren gekozen, omdat deze overeen kwamen met de huisstijl van Handpicked agencies. Ik moet toegeven dat ik niet helemaal tevreden was met dit design, maar ik had ook geen idee hoe ik het mooier had kunnen maken.
+De inspiratie hiervoor was de [board of innovation ai toolkit](https://ai.boardofinnovation.com/), dit was ook een grote inspiratie voor het concept van de stage opdracht. Verder heb ik voor de kleuren gekozen, omdat deze overeen kwamen met de huisstijl van Handpicked agencies. Ik moet toegeven dat ik niet helemaal tevreden was met dit design, maar ik had ook geen idee hoe ik het mooier had kunnen maken.
 ## Versie 2
 Gelukkig kwam er een nieuwe huisstijl aan voor Handpicked agencies. Hierdoor had ik de kans om op een nieuwe manier naar mijn design te gaan kijken. Uiteindelijk ben ik dus ook bij een design gekomen waarmee ik wel tevreden was.
 

@@ -9,14 +9,14 @@ Mijn opdracht is om een soort 'AI toolbox' te maken waar gebruikers van een agen
   
 # Leeswijzer  
 - Projectplan  
-    - [[project-opdracht |Project opdracht]]
+    - [[Project-opdracht |Project opdracht]]
     - [[pva |Plan van aanpak]]
-    - [[projectorganisatie |Project organisatie]]
+    - [[Projectorganisatie |Project organisatie]]
     - [[financien-en-risicos |Financiën en Risico's]]
 - Analyse  
-    - [[requirements |Requirements]] 
+    - [[Requirements |Requirements]] 
 - Design  
     - [[ux-design |UX design]]
-    - [[software-architectuur |Software architectuur]]
+    - [[Software-architectuur |Software architectuur]]
 - Onderzoek  
     - [[custom-llms |Onderzoek custom LLMs]]

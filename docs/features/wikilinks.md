@@ -11,6 +11,6 @@ This is enabled as a part of [[Obsidian compatibility]] and can be configured an
 ## Syntax
 
 - `[[Path to file]]`: produces a link to `Path to file.md` (or `Path-to-file.md`) with the text `Path to file`
-- `[[Path to file | Here's the title override]]`: produces a link to `Path to file.md` with the text `Here's the title override`
+- `r[[Path to file | Here's the title overide]]`: produces a link to `Path to file.md` with the text `Here's the title override`
 - `[[Path to file#Anchor]]`: produces a link to the anchor `Anchor` in the file `Path to file.md`
 - `[[Path to file#^block-ref]]`: produces a link to the specific block `block-ref` in the file `Path to file.md`

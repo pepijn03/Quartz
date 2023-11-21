@@ -5,8 +5,7 @@ tags:
   - app-design
   - analyse
 ---
-
-Voordat je iets gaat maken is het belangrijk dat je gaat uitzoeken wat je precies wil gaan maken. Dit ga ik in dit project doen aan de hand van user stories en use cases. De user stories werkt in dit geval als een vervanging van klassieke requirements. Daarnaast zijn er ook wat niet functionele vereisten aan het project, deze staan hier ook gedefinieerd.
+Voordat je iets gaat maken is het belangrijk dat je gaat uitzoeken wat je precies wil gaan maken. Dit ga ik in dit project doen aan de hand van user stories en/of use cases. De user stories werkt in dit geval als een vervanging van klassieke requirements. Daarnaast zijn er ook wat niet functionele vereisten aan het project, deze staan hier ook gedefinieerd.
 # Use case en User stories
 ## Ideeën genereren
 
@@ -15,27 +14,36 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 
 ### Use cases
 
-| **Naam**         | UC-01.1: genereer een idee                                                                                                                                                                                                 |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Samenvatting** | De gebruiker genereert een idee op basis van eerdere ideeën.                                                                                                                                                               | 
-| **User story**   | US-01                                                                                                                                                                                                                      |  
-| **Actor**        | Medewerken van Weekend                                                                                                                                                                                                     |
-| **Aanname**      |                                                                                                                                                                                                                            | 
-| **Scenario**     | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li>Het systeem genereerd op basis van het de invoer een idee voor een design waar met extra context met concepten van eerdere projecten. </li> </ol> |  
-| **Uitzondering** |                                                                                                                                                                                                                            |
-| **Resultaat**    | De actor heeft nu een idee gegeneerd.                                                                                                                                                                                      |
+|**Naam**   |UC-01.1: genereer een idee    |
+|---|---|
+|**Samenvatting**   | De gebruiker genereert een idee op basis van eerdere ideeën.  | 
+| **User story**  | US-01  |  
+| **Actor**  |Medewerken van Weekend   |
+|**Aanname**   |   | 
+|**Scenario**   | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li>Het systeem genereerd op basis van het de invoer een idee voor een design waar met extra context met concepten van eerdere projecten. </li> </ol>  |  
+|**Uitzondering**   |    |
+|**Resultaat**   | De actor heeft nu een idee gegeneerd.  |
 
 <br/>
 
-| **Naam**         | UC-01.2: genereer een idee                                                                                                                                                                                                                                                                                                    |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Samenvatting** | De gebruiker genereert een idee op basis van eerdere ideeën.                                                                                                                                                                                                                                                                  | 
-| **User story**   | US-01                                                                                                                                                                                                                                                                                                                         |  
-| **Actor**        | Medewerken van Weekend                                                                                                                                                                                                                                                                                                        |
-| **Aanname**      |                                                                                                                                                                                                                                                                                                                               | 
-| **Scenario**     | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li> De actor geeft bestanden mee over die betrekking hebben met het concept van het eindproduct <li>Het systeem genereerd op basis van het de invoer een idee voor een design waar met extra context over eerder onderzoek van dit project. </li> </ol> |  
-| **Uitzondering** |                                                                                                                                                                                                                                                                                                                               |
-| **Resultaat**    | De actor heeft nu een idee gegeneerd.                                                                                                                                                                                                                                                                                         |
+|**Naam**   |UC-01.2: genereer een idee    |
+|---|---|
+|**Samenvatting**   | De gebruiker genereert een idee op basis van eerdere ideeën.  | 
+| **User story**  | US-01  |  
+| **Actor**  |Medewerken van Weekend   |
+|**Aanname**   |   | 
+|**Scenario**   | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li> De actor geeft bestanden mee over die betrekking hebben met het concept van het eindproduct <li>Het systeem genereerd op basis van het de invoer een idee voor een design waar met extra context over eerder onderzoek van dit project. </li> </ol>  |  
+|**Uitzondering**   |    |
+|**Resultaat**   | De actor heeft nu een idee gegeneerd.  |
+
+## LLM
+Er zullen meerdere eisen gesteld moeten worden aan het LLM wat ik ga gebruiken om ervoor te zorgen dat mijn eindproduct tot de eisen zal voldoen.
+
+Het LLM model zal antwoorden moeten genereren die past bij het doel van de 'tool' op basis van de prompt en de meegegeven context.
+
+Het LLM model zal Nederlands talige vragen moeten kunnen beantwoorden in het Nederlands.
+
+Het LLM model zou de mogelijkheid moeten hebben om antwoorden te genereren die niet voor de hand liggen.
 
 # Non-functional requirements
 Dit is een lijst met eisen die gesteld zijn door de opdrachtgever of door mezelf. Deze lijst is belangrijk om duidelijk te krijgen wat er precies geëist wordt van het project buiten de functionaliteiten om. 

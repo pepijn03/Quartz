@@ -1,8 +1,4 @@
 ---
 title: Reflectie
 ---
-
-# Reflectie leerdoelen
-
-
-# Reflectie project
+# Reflectie project (Halfway)

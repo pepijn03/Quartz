@@ -31,16 +31,15 @@ parameters zijn waardes die je ergens aan mee kan geven waarmee een applicatie b
 # Model selecteren
 Voor mijn specifieke context is het belangrijk dat een model de Nederlandse taal kan begrijpen en ook antwoorden kan genereren. Er zijn een paar modellen waarvan bekent is dat ze Nederlands kunnen, daarnaast zijn er nog een paar modellen die minimaal getraind zijn op Nederlandse tekst, ik zal moeten onderzoeken of dit kleine beetje al genoeg is of niet.
 
-De modellen waarvan bekent is dat ze goed met de Nederlandse taal om kunnen gaan zijn: Llama(2), Bert en GPT (4). Dit zijn dus ook de modellen die ik als eerst wil gaan testen. Het testen zal ik gaan doen in verschillende rondes. De eerste test zal een erg feitelijke vraag zijn, hiervoor heb ik gekozen voor de  vraag: "Wie is de koning van Nederland?" , daarnaast wordt er ook aan de modellen een subjectieve vraag gesteld: "Wat is de beste kleur?". 
+De modellen waarvan bekent is dat ze goed met de Nederlandse taal om kunnen gaan zijn: Llama(2), Bert en GPT (4). Dit zijn dus ook de modellen die ik als eerst wil gaan testen. Het testen zal ik gaan doen in verschillende rondes. De eerste test zal een erg feitelijke vraag zijn, hiervoor heb ik gekozen voor de  vraag: "Wie is de koning van Nederland?" , daarnaast wordt er ook aan de modellen een subjectieve vraag gesteld: "Wat is de beste kleur?". Om te kijken hoe goed de modellen omgaan met Nederlandse embeddings ga ik de modellen vragen stellen over Cottona. Cottona is een klant van Weekend, van Weekend heb ik de brandstory, een tekst die de identiteit van een bedrijf beschrijft, over Cottona gekregen. Hierdoor is het dus mogelijk om de LLMs te testen op een embedding die in de use case past.
 
 Daarna worden de modellen die een goed genoeg antwoord gaven op de eerste vraag ook getest met een embedding als context. Hierna zal er gekeken worden naar wat de prestatie van een model, hier zal gekeken worden of het model wel snel genoeg is om te gaan gebruiken op een API. Om duidelijk te zijn met wat snel genoeg is heb ik hiervoor richtlijnen opgezet. Model deployment zou idealistisch korter dan 10 seconden duren, dit zou in de praktijk uit mogen lopen tot 20 seconden mits dat de snelheid van een vraag verwerken snel genoeg is. De richtlijn voor een vraag verwerken zou idealistisch onder de 20 seconden zitten, dit zou mogen uitlopen tot 40 seconden. Het is de bedoeling dat het complete process niet langer duurt dan maximaal 50 seconden, het doel is natuurlijk om het process uit te kunnen voeren in ongeveer 30 seconden.
 
 De modellen zullen getest worden op mijn locale machine in een python omgeving met behulp van [Langchain](https://python.langchain.com/docs/get_started/introduction). 
 
 ## Llama
-Llama is een familie van LLM modellen van Meta. Deze modellen zijn van vrij hoge kwaliteit binnen de open-source modellen die nu steeds meer in opkomst zijn. 
+Llama is een familie van LLM modellen van Meta. Deze modellen zijn van vrij hoge kwaliteit binnen de open-source modellen die nu steeds meer in opkomst zijn. Recentelijk is Llama 3 ontworpen, dit model schijnt erg goed te werken en ook nog een goed op de Nederladse taal. het probleem is dat het model zelf nog niet
 
-De eerste test was deels geslaagd, als het op iets specifieks en feitelijks aan komt kwam er een goed volledig Nederlandstalig antwoord uit. Zodra het wat subjectiever werd, was het meteen moeilijker voor het model om een volledig Nederlands antwoord te genereren. 
 ### Prompting
 Het model reageert wel goed op een hele feitelijke vraag zoals: "Wie is de koning van Nederland?".
 
@@ -48,7 +47,7 @@ Het model reageert wel goed op een hele feitelijke vraag zoals: "Wie is de konin
 
 Het model kan het alleen niet aan als het neerkomt op een zweverige vraag. Je merkt bij dit resultaat ook dat het model heer raar reageert en tegen zichzelf gaat praten. Dit komt waarschijnlijk doordat Llama een model is dat gemaakt is voor gebruik als een chatbot.
 
-![[Pasted image 20231107164836.png]]
+![[llama-2.png]]
 
 Deze uitkomsten zijn niet ideaal maar, het is lijkt me het wel waard om verder te gaan experimenteren voor mijn project.
 
@@ -76,7 +75,7 @@ Het platform waar ik andere modellen getest heb werkte niet goed voor Falcon, hi
 Hieruit kon ik concluderen dat het Falcon model het niet waard is om verder mee te gaan experimenteren. Voor een model dat Geraint is op 3 miljard Nederlandse vectors, vind ik dit een best slechte uitkomst.
 
 ## Orca
-Orca is een familie van LLMs die gebaseerd is op llama en bekent staan om hun kracht tegenover hun compactheid. Het Orca-mini model is ook het model wat ik vooral gebruikte bij het testen van mijn applicatie en eigenlijk had ik het model afgeschreven voor uiteindelijk gebruik, omdat het model geen Nederlandse taal kon verwerken. Dit is veranderd sinds de release van de derde versie van het Orca model. Deze modellen zijn gebaseerd op de nieuwe Llama-3 modellen en kunnen nu ook met Nederlandse taal omgaan. Hierdoor leek het mij leuk om te kijken wat er uit dit model zou komen.
+Orca is een familie van LLMs die gebaseerd is op llama en bekent staan om hun kracht tegenover hun compactheid. Het Orca-mini model is ook het model wat ik vooral gebruikte bij het testen van mijn applicatie en eigenlijk had ik het model afgeschreven voor uiteindelijk gebruik, omdat het model geen Nederlandse taal kon verwerken. Dit is veranderd sinds de release van de derde versie van het Orca model. De nieuwe versie van Orca kan erg goed omgaan met de Nederlandse taal, vooral als het aankomt op enkele instructies in tegenstelling tot chat-stijl interacties.
 
 ### Prompting
 Bij de standaardvraag over wie de koning van Nederland is gaf het model een kort en bondig antwoord
@@ -90,3 +89,6 @@ Verder kan het model ook omgaan met een erg subjectieve vraag: "Wat is de mooist
 Het model geeft dus verbazingwekkend goede antwoorden op verschillende soorten vragen en ook nog compleet in correct Nederlands. Het model is het dus waard om mee door te gaan testen ookal was het een model waar ik persoonlijk niet al te veel vertrouwen in had.
 
 ### Embeddings
+Het model genereert antwoorden op bruikbare kwaliteit, het is wel traag met het generen met embedding in het Nederlands.
+
+![[orca-3.png]]

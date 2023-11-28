@@ -1,0 +1,13 @@
+---
+title: Privacy en ethiek
+tags:
+  - onderzoeks-rapport
+  - analyse
+---
+# Privacy
+Een van de grootste redenen wat mijn stage opdracht relevant maakt is dat er momenteel nog geen manier is om een llm te (laten) trainen door een derde partij die transparant om gaat met de data die je ernaar toe stuurt. Zo kan je bij ChatGPT wel zelf een versie van LLM trainen, maar het is nergens te vinden wat er gebeurt met de data waarop je het model traint. Hierdoor heb ik de keuze genomen om de gebruikte data alleen lokaal op te slaan in mijn applicatie. Deze data zal op dezelfde server komen als waar de applicatie-laag van de LLM (zie [[software-architectuur |software architectuur]]) op zou moeten draaien. Dit zou ervoor moeten zorgen dat de data alleen beschikbaar is voor/door de gebruikers van de 'AI toolbox', die allemaal werknemers van Handpicked Agencies zouden moeten zijn.
+
+# Ethiek
+Het gespreksonderwerp van ethiek en AI is recentelijk erg relevant geworden. De link tussen AI en ethiek is op meerdere manieren te leggen, het ethisch gebruiken van een AI model en het gebruiken van ethisch verkregen data om een AI model te trainen. Binnen mijn project zal is vooral het ethisch gebruik maken van een relevant zijn, doordat de data alleen intern verkregen en gebruikt zal worden en ik geen invloed heb op de data waar de modellen origineel op getraind zijn. Onder het ethisch gebruiken van een AI model versta ik vooral dat de mogelijke generaties van een model in dit geval geen tekst genereert dat schadelijk kan zijn naar een bepaalde personen of groepen van mensen. Hiermee bedoel ik vooral dingen zoals; seksistische, racistische of discrimineerde teksten. 
+
+Doordat ik in mijn applicatie werk met een soort template om vragen testellen, dit limiteert deels de vrijheid van de gebruiker waardoor er minder plek is om door middel van prompt engineering schadelijke teksten te kunnen generen. Daarnaast gaan er ook toegevoegd worden aan deze templates die specificeren dat er geen politiek geladen of schadelijke teksten zou moeten genereren. Hierdoor zou het dus zo goed als onmogelijk moeten zijn om schadelijke teksten te generen, zonder de generaties te filteren. Ik heb ervoor gekozen om geen filter in te bouwen, omdat dit buiten te scope van het project valt en dus te veel tijd gaat kosten. Daarnaast is het niet nodig om een ideaal product op te leveren doordat het einddoel van het project een Proof of concept is.

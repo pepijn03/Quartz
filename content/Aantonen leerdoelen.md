@@ -28,7 +28,7 @@ In dit semester moet je analyserend doelen stellen richting passende vereisten e
 ### Relevante producten/manieren van aantonen:
 Doordat er over tijd steeds meer te doen is over ethiek en AI heb ik gekeken wat hiervan toepasbaar is op mijn stage opdracht. Hiervoor heb een [[Privacy en ethiek |onderzoek naar privacy en ethiek]] gedaan. Zoals de titel al zegt heb ik ook onderzoek gedaan naar het privacy aspect van mijn opdracht. Doordat ik met gevoelige bedrijfs-documenten aan de slag ga, zal ik ook gaan moeten kijken naar hoe ik hier mee om ga.
 
-Daarnaast heb ik ook geprobeerd mijn applicatie op een onderhoudsvriendelijke manier te bouwen die overeenkomen met duidelijke richtlijnen en filosofieën over software architectuur. Zo heb ik een document op gesteld over [[software-architectuur |de architectuur van mijn applicatie]].
+Daarnaast heb ik ook geprobeerd mijn applicatie op een onderhoudsvriendelijke manier te bouwen die overeenkomen met duidelijke richtlijnen en filosofieën over software architectuur. Zo heb ik een document op gesteld over [[Software-architectuur |de architectuur van mijn applicatie]].
 
 ## LO4: Investigative problem solving
 ### Inhoud leerdoel:

@@ -4,6 +4,8 @@ tags:
   - app-design
   - onderzoeks-rapport
 ---
+Om uiteindelijk goed onderhoudbare applicaties te maken is het belangrijk dat ze volgende een duidelijke gedachtegang in elkaar gezet zijn. Hierdoor ben ik dus gaan kijken naar bestaande manieren om applicaties met meerdere lagen vorm te geven en deze manieren toe te passen binnen mijn project. Daarnaast ben ik ook gaan kijken naar de structuur van elke 'laag' binnen mijn applicatie om de code hiervan overzichtelijk te maken. Uiteindelijk heb ik ook nog een plan over hoe ik de code wil gaan beheren op een Git repository.
+
 # Architectuur
 ## Versie 1
 Voor dit project wilde ik een JavaScript of Typescript framework gebruiken voor de front end van mijn applicatie, omdat in mijn ervaring dat best goed werkt met een gedistribueerde software architectuur. Daarnaast is mij vanuit mijn het Handpicked Lab aangeraden om express te gebruiken als middleware API. Toen ik wat onderzoek gedaan had kwam ik al heel snel bij de MEAN stack. Dit is iets wat goed in mijn applicatie structuur past. Persoonlijk had ik nog geen ervaring met JavaScript frameworks zoals Express of met NoSQL databases zoal MongoDB. Dit heeft mij niet tegen gehouden van het gebruik maken hiervan.
@@ -123,3 +125,17 @@ De Git voor het project zelf zal op een trunk-based manier worden vorm gegeven. 
 Binnen mijn Git omgeving zal ik op twee plekken CI/CD toepassen. Zodra er iets gepusht of gemerget wordt naar de Trunk, gaat een CI/CD kijken of die applicatie wel gebuilt kan worden voordat deze push/merge geaccepteerd wordt. Daarnaast zal er op de release branch de applicatie een CD pipeline ontstaan die automatisch de applicatie pusht naar de plek waar die gehost wordt, zodat de meest recente release versie ook online staat.
 
 Verder ben ik van plan voor elke laag van mijn applicatie een eigen repo te gebruiken. Deze keuze heb ik gemaakt, omdat ik persoonlijk geen fan ben van de monorepo structuur. Deze structuur levert voor mij vaak problemen op bij het integreren van een CI/CD pipeline terwijl ik het voordelen die een monorepo met zich mee neemt amper gebruik, denk aan herbruikbare componenten in de front end.
+
+
+
+
+# Bronnen
+Atlassian. (n.d.). Trunk-based development | Atlassian. https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+
+Express Tutorial Part 4: Routes and controllers - Learn web development | MDN. (2023, October 18). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+
+Lo, V. (2020, August 29). Build a REST API with Node.js: Routes and Controllers. Articles by Victoria Lo. https://lo-victoria.com/build-a-rest-api-with-nodejs-routes-and-controllers
+
+MongoDB. (n.d.). What is the MEAN Stack? Introduction & examples. https://www.mongodb.com/mean-stack
+
+Paul-Hammant. (n.d.). Trunk based development. Trunk Based Development. https://trunkbaseddevelopment.com/

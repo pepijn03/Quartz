@@ -24,9 +24,9 @@ title: Reader's guide
 
 <br/>
 
-| University tutor:       |         |
-| ----------------------- | ------- |
-| Family name , initials: | Mies, R |
+| University tutor:       |            |
+| ----------------------- | ---------- |
+| Family name , initials: | Martens, N |
 
 <br/>
 

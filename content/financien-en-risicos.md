@@ -21,3 +21,7 @@ Om de risico's goed te kunnen definiëren is de tabel hieronder iets te klein, h
 
  Het is mogelijk dat sommige packages niet meer werken binnen mijn applicatie na een bepaalde update*
 
+
+https://medium.com/@biju.krishnan_73542/hosting-your-own-llms-10-things-to-consider-69215e1e4aa8
+https://www.plural.sh/blog/self-hosting-large-language-models/
+https://www.linkedin.com/pulse/llm-economics-which-cheaper-deploy-open-source-llms-openai-nawaz/

@@ -8,13 +8,14 @@ Binnen dit project zijn er meerdere stakeholders en personen die me begeleiden g
 
 Verder heeft dit project te maken met stakeholders. mijn stageplek is natuurlijk een van de stakeholders binnen die project, ze willen natuurlijk laten zien 
 
-| Naam + contactgegeven                                            | afk. | Rol/taken                                         | Besschikbaarheid                                |
-| ---------------------------------------------------------------- | ---- | ------------------------------------------------- | ----------------------------------------------- |
-| [Pepijn van Loenhout](mailto:pvloenhout@handpickedagencies.com) | PvL  | stagair/developer                                 | N.v.t.                                          |
-| [Rob Mies](mailto:rob.mies@fontys.nl)                           | RM   | stagedocent Fontys                                | 2 dagen in de week (woensdag en vrijdag)        |
-| [Sjoerd van Oosten](mailto:svoosten@handpickedagencies.com)     | SvO  | Stagebegeleider/Creative director Handpicked Lab | 3 dagen per week (maandag, woensdag en vrijdag) |
-| [Samet Yilmaz](mailto:syilmaz@handpickedagencies.com)           | SY   | Stagebegeleider/Technical Director Handpicked Lab                 | 3 dagen per week (maandag, woensdag en vrijdag) |
-| [Jascha Huisman](mailto:)                                       | JH   | Creative technologist Handpicked Lab              | 3 dagen per week (maandag, woensdag en vrijdag) |
+| Naam + contactgegeven | Rol/taken | Besschikbaarheid |
+| ---- | ---- | ---- |
+| [Pepijn van Loenhout](mailto:pvloenhout@handpickedagencies.com) | Stagair/developer | N.v.t. |
+| [Sjoerd van Oosten](mailto:svoosten@handpickedagencies.com) | Stagebegeleider/Creative director Handpicked Lab | 3 dagen per week (maandag, woensdag en vrijdag) |
+| [Samet Yilmaz](mailto:syilmaz@handpickedagencies.com) | Stagebegeleider/Technical Director Handpicked Lab | 3 dagen per week (maandag, woensdag en vrijdag) |
+| [Jascha Huisman](mailto:) | Creative technologist Handpicked Lab | 3 dagen per week (maandag, woensdag en vrijdag) |
+| [Rob Mies](mailto:rob.mies@fontys.nl) | Stagedocent Fontys (uitgevallen) | 2 dagen in de week (woensdag en vrijdag) |
+| [Natasje Martens](mailto:n.martens@fontys.nl) | Stagedocent Fontys (vervangend) |  |
 
 
 # Communicatie

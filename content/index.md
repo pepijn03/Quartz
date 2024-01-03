@@ -56,4 +56,7 @@ Om mijn portfolio makkelijk vorm te geven is deze gepubliceerd op een website, o
     - [[software-architectuur |Software architectuur]]
 - Onderzoek  
     - [[custom-llms |Onderzoek custom LLMs]]
+    - [[Privacy en ethiek]]
+- [[process |Realisatie process verslag]]
+- [[eindproduct en advies |Eindproduct en advies]]
 - [[Reflectie|Reflectie]]

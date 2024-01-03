@@ -8,3 +8,7 @@ Mijn stage bij Handpicked Lab is mijn eerste ervaring met het werken in het ICT 
 
 Wat ik soms wel mis in mijn stage is dat ik niet echt mee kan werken in bestaande processes van het bedrijf. Dit komt volgens mij doordat Handpicked Lab heel kleinschalig is, er zijn maar 3 vaste werknemers naast de stagairs. Deze werknemers zijn vaak bezig met experimenten die expertise eisen. Vaak is het dat je binnen een stage ook taken hebt naast de stage opdracht, maar die heb ik bijna niet. Hierdoor ben ik eigenlijk de hele week bezig met mijn opdracht. Dit vind ik niet verschrikkelijk omdat ik mijn opdracht leuk vind, maar ik had ook wel graag wat werkervaring op gedaan.
 
+# Reflectie project (Einde)
+
+
+# Persoonlijke reflectie

@@ -7,13 +7,10 @@ tags:
 ---
 Voordat je iets gaat maken is het belangrijk dat je gaat uitzoeken wat je precies wil gaan maken. Dit ga ik in dit project doen aan de hand van user stories en/of use cases. De user stories werkt in dit geval als een vervanging van klassieke requirements. Daarnaast zijn er ook wat niet functionele vereisten aan het project, deze staan hier ook gedefinieerd.
 
-# Use case en User stories
-## Ideeën genereren
+De use cases in dit document zijn een verzameling van antwoorden die ik gekregen heb toen ik bezig was met de deelvraag: 'Waar willen bedrijven binnen Handpicked ondersteuning op basis van taal modellen?'. De use cases zijn dus een antwoord op deze deelvraag.
 
-### user story
-Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concept naar design binnen het creatieve process van Weekend.
-
-### Use cases
+# Use cases
+## Use cases
 
 | **Naam** | UC-01: Upload een context |
 | ---- | ---- |
@@ -28,12 +25,12 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 
 | **Naam** | UC-02: Genereer een idee |
 | ---- | ---- |
-| **Samenvatting** | De gebruiker genereert een idee op basis van een brandstory. |
+| **Samenvatting** | De gebruiker genereert een lijst met ideeen op basis van een brandstory. |
 | **Actor** | Medewerken binnen Handpicked agencies |
 | **Aanname** | Er is een context aangemaakt (UC-01) |
 | **Scenario** | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li> De actor selecteert een eerder geüploade brandstory als context </li> <li> Het systeem genereerd op basis van het de invoer een idee voor een design waar met extra context over eerder onderzoek van dit project. </li> </ol> |
 | **Uitzondering** |  |
-| **Resultaat** | De actor heeft nu een idee gegeneerd. |
+| **Resultaat** | De actor heeft nu een idee gegenereerd. |
 
 <br/>
 
@@ -44,7 +41,7 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 | **Aanname** |  |
 | **Scenario** | <ol><li>De actor voert de doelgroep die de persona's moeten aannemen en het vraagstuk waarvoor de persona's bedoelt zijn.</li> <li>Het systeem genereerd op basis van het de invoer een lijst met een paar persona's die een naam, leeftijd, korte beschrijving en hun belangrijkste standpunten over het vraagstuk bevatten</li> </ol> |
 | **Uitzondering** | De actor kan ook een bestaande context gebruiken voor het maken van persona's na stap 1 |
-| **Resultaat** | De actor heeft nu een idee gegeneerd. |
+| **Resultaat** | De actor heeft nu een idee gegenereerd. |
 
 <br/>
 
@@ -55,7 +52,7 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 | **Aanname**      | Er is een brandstory geüpload als context (UC-01)                                                                                                                          |
 | **Scenario**     | <ol><li>De actor selecteert een eerder geüploade brandstory.</li> <li> Het systeem genereerd nu een woordweb gebaseerd op de thema's in de brandstory. </li> </ol> |
 | **Uitzondering** |                                                                                                                                                                    |
-| **Resultaat**    | De actor heeft nu een idee gegeneerd.                                                                                                                              |
+| **Resultaat**    | De actor heeft nu een idee gegenereerd.                                                                                                                              |
 
 <br/>
 
@@ -66,8 +63,7 @@ Als gebruiker wil ik ideeën kunnen generen te helpen met de overgang van concep
 | **Aanname** |  |
 | **Scenario** | <ol><li>De actor voert het eindproduct en het soort bedrijf in.</li> <li> een idee voor Het systeem genereerd op basis van het de invoereen design waar met extra context met concepten van brandstory . </li> </ol> |
 | **Uitzondering** |  |
-| **Resultaat** | De actor heeft nu een idee gegeneerd. |
-
+| **Resultaat** | De actor heeft nu een idee gegenereerd. |
 
 ## LLM
 Er zullen meerdere eisen gesteld moeten worden aan het LLM wat ik ga gebruiken om ervoor te zorgen dat mijn eindproduct tot de eisen zal voldoen.

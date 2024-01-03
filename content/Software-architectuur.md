@@ -126,9 +126,6 @@ Binnen mijn Git omgeving zal ik op twee plekken CI/CD toepassen. Zodra er iets g
 
 Verder ben ik van plan voor elke laag van mijn applicatie een eigen repo te gebruiken. Deze keuze heb ik gemaakt, omdat ik persoonlijk geen fan ben van de monorepo structuur. Deze structuur levert voor mij vaak problemen op bij het integreren van een CI/CD pipeline terwijl ik het voordelen die een monorepo met zich mee neemt amper gebruik, denk aan herbruikbare componenten in de front end.
 
-
-
-
 # Bronnen
 Atlassian. (n.d.). Trunk-based development | Atlassian. https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
 

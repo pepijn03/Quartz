@@ -3,7 +3,13 @@ title: Onderzoek custom LLMs
 tags:
   - onderzoeks-rapport
 ---
-Binnen het project van mijn stage bij Handpicked Lab, is mijn opdracht om een integratie te maken van een taal model, dat informatie moet bevatten van een bepaald bedrijf. Het is belangrijk om deze informatie op een veilige manier op te slaan. Verder is het belangrijk om rekening te houden met de prestaties van het taal model, het moet niet te lang duren voordat het model een antwoord genereerd. In dit onderzoeks-rapport wil ik de deelvraag; 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?' volledig beantwoorden en een deel van 'Hoe maak ik een applicatie/AI aangepast aan bepaalde toepassingen en gebruikers?' beantwoorden. 
+Binnen het project van mijn stage bij Handpicked Lab, is mijn opdracht om een integratie te maken van een taal model, dat informatie moet bevatten van een bepaald bedrijf. Het is belangrijk om deze informatie op een veilige manier op te slaan. Verder is het belangrijk om rekening te houden met de prestaties van het taal model, het moet niet te lang duren voordat het model een antwoord genereerd. 
+
+In dit onderzoeks-rapport wil ik de deelvraag; 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?' volledig beantwoorden en een deel van 'Hoe maak ik een applicatie/AI aangepast aan bepaalde toepassingen en gebruikers?' beantwoorden. 
+
+Eerder binnen mijn stage heb ik uitgezocht waar de stakeholders binnen handpicked ondersteuning willen hebben door middel van LLMs. Daarna zou ben ik bezig gegaan met de 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?'. Deze beantwoord ik in het de eerste gedeeltes van dit verslag. Tijdens dit onderzoek ben ik op zoek gegaan om manieren te vinden om LLMs op bepaalde manieren te laten functioneren. Dit document is dus het onderzoek wat vanuit deze deelvraag ontstaan is
+
+Daarnaast ben ik hier ook deels gaan nadenken over de deelvraag 'Hoe maak ik een applicatie/AI aangepast aan bepaalde toepassingen en gebruikers? '. Hiervoor heb ik onderzoek gedaan naar de verschillende manieren om LLMs te gebruiken, waarmee ik dus het deel over aangepaste AI beantwoord.
 # Fine-tuning
 Het proces van fine tuning bij een taalmodel, houdt in dat je een model op een bepaalde manier zich laat gedragen. Door een combinatie van prompt engineering en finetuning kan je heel snel een model krijgen die reageert op de manier die je het wil laten leren. Het fine tunen van een taalmodel kan ook met een verassend kleine corpus, dit komt doordat het model bij fine tunen het model eigenlijk een aantal voorbeelden geeft hoe het moet reageren op bepaalde prompts.
 

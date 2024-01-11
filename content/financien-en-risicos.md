@@ -22,6 +22,9 @@ Om de risico's goed te kunnen definiëren is de tabel hieronder iets te klein, h
  Het is mogelijk dat sommige packages niet meer werken binnen mijn applicatie na een bepaalde update*
 
 
-https://medium.com/@biju.krishnan_73542/hosting-your-own-llms-10-things-to-consider-69215e1e4aa8
-https://www.plural.sh/blog/self-hosting-large-language-models/
-https://www.linkedin.com/pulse/llm-economics-which-cheaper-deploy-open-source-llms-openai-nawaz/
+# Bronnen
+Biju Krishnan @ DataSiens. (2023, 25 juli). Hosting your own LLM’s? 10 things to Consider. - Biju Krishnan @ DataSiens - Medium. _Medium_. https://medium.com/@biju.krishnan_73542/hosting-your-own-llms-10-things-to-consider-69215e1e4aa8
+
+Gubitosa, B. (2023, 26 september). _What you need to know about Self-Hosting Large Language Models (LLMs)_. Blog | Plural. https://www.plural.sh/blog/self-hosting-large-language-models/
+
+Nawaz, S. (2023, 9 augustus). _LLM Economics: Which is cheaper to deploy open source LLMs vs OpenAI GPT models?_ https://www.linkedin.com/pulse/llm-economics-which-cheaper-deploy-open-source-llms-openai-nawaz/

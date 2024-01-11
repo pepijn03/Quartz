@@ -32,7 +32,7 @@ title: Reader's guide
 
 | Final portfolio: |     |
 | ---------------- | --- |
-| Title:           |     |
+| Title:           | ICT Derdejaars Stage Portfolio: AI intergratie    |
 | Date:            |     |
 
 

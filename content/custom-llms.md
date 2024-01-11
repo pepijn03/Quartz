@@ -7,7 +7,7 @@ Binnen het project van mijn stage bij Handpicked Lab, is mijn opdracht om een in
 
 In dit onderzoeks-rapport wil ik de deelvraag; 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?' volledig beantwoorden en een deel van 'Hoe maak ik een applicatie/AI aangepast aan bepaalde toepassingen en gebruikers?' beantwoorden. 
 
-Eerder binnen mijn stage heb ik uitgezocht waar de stakeholders binnen handpicked ondersteuning willen hebben door middel van LLMs. Daarna zou ben ik bezig gegaan met de 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?'. Deze beantwoord ik in het de eerste gedeeltes van dit verslag. Tijdens dit onderzoek ben ik op zoek gegaan om manieren te vinden om LLMs op bepaalde manieren te laten functioneren. Dit document is dus het onderzoek wat vanuit deze deelvraag ontstaan is
+Eerder binnen mijn stage heb ik uitgezocht waar de stakeholders binnen handpicked ondersteuning willen hebben door middel van LLMs. Daarna zou ben ik bezig gegaan met de 'Welke AI technologieën bestaan al die kunnen toegepast worden voor deze ondersteuningen?'. Deze beantwoord ik in het de eerste gedeeltes van dit verslag. Tijdens dit onderzoek ben ik op zoek gegaan om manieren te vinden om LLMs op bepaalde manieren te laten functioneren. Dit document is dus het onderzoek wat vanuit deze deelvraag ontstaan is.
 
 Daarnaast ben ik hier ook deels gaan nadenken over de deelvraag 'Hoe maak ik een applicatie/AI aangepast aan bepaalde toepassingen en gebruikers? '. Hiervoor heb ik onderzoek gedaan naar de verschillende manieren om LLMs te gebruiken, waarmee ik dus het deel over aangepaste AI beantwoord.
 # Fine-tuning
@@ -75,16 +75,16 @@ AI Jason. (2023, July 9). “okay, but I want GPT to perform 10x for my specific
 
 Ehab, M. (2023, July 30). The Secrets of Large Language Models Parameters: How They Affect the Quality, Diversity, and. Michael Ehab. .. Medium. https://michaelehab.medium.com/the-secrets-of-large-language-models-parameters-how-they-affect-the-quality-diversity-and-32eb8643e631
 
-Enterprise privacy. (n.d.). https://openai.com/enterprise-privacy
+Enterprise privacy. (n.d.). OpenAI. https://openai.com/enterprise-privacy
 
-Introducing GPTs. (n.d.). https://openai.com/blog/introducing-gpts
+Introducing GPTs. (n.d.). OpenAI. https://openai.com/blog/introducing-gpts
 
 Open LLM Leaderboard - A Hugging Face space by HuggingFaceH4. (n.d.). https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
 OpenAI | 🦜️🔗 Langchain. (n.d.). https://python.langchain.com/docs/integrations/llms/openai
 Schwaber-Cohen, R. (n.d.). What is a Vector Database & How Does it Work? Use Cases + Examples. 
 
-Pinecone. https://www.pinecone.io/learn/vector-database/
+Vector databases. (n.d.). Pinecone. https://www.pinecone.io/learn/vector-database/
 
 Vector stores | 🦜️🔗 Langchain. (n.d.). https://python.langchain.com/docs/modules/data_connection/vectorstores/
 
